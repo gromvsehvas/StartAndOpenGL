@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson168_intro/lesson168_intro.iml" filepath="$PROJECT_DIR$/lesson168_intro/lesson168_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson169_shaders/lesson169_shaders.iml" filepath="$PROJECT_DIR$/lesson169_shaders/lesson169_shaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson170_primitives/lesson170_primitives.iml" filepath="$PROJECT_DIR$/lesson170_primitives/lesson170_primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson171_colors/lesson171_colors.iml" filepath="$PROJECT_DIR$/lesson171_colors/lesson171_colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson172_perspective/lesson172_perspective.iml" filepath="$PROJECT_DIR$/lesson172_perspective/lesson172_perspective.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson173_view/lesson173_view.iml" filepath="$PROJECT_DIR$/lesson173_view/lesson173_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson174_model/lesson174_model.iml" filepath="$PROJECT_DIR$/lesson174_model/lesson174_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson175_texture/lesson175_texture.iml" filepath="$PROJECT_DIR$/lesson175_texture/lesson175_texture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons_opengl.iml" filepath="$PROJECT_DIR$/lessons_opengl.iml" />
+    </modules>
+  </component>
+</project>
